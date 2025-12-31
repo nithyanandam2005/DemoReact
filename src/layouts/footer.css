@@ -1,0 +1,84 @@
+.footer {
+    background: linear-gradient(90deg, #151249, #2B3B90);
+    color: white;
+    padding: 50px 80px 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+/* Left */
+.footer-left h2 {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.footer-left p {
+    font-size: 14px;
+    margin-bottom: 15px;
+    color: #dcdcdc;
+}
+
+.footer-contact p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+/* Center */
+.footer-links h4 {
+    margin-bottom: 15px;
+    color: green;
+}
+
+.footer-links ul {
+    list-style: none;
+    
+}
+
+.footer-links li {
+    font-size: 14px;
+    margin-bottom: 8px;
+    
+    
+    color: #dcdcdc;
+    cursor: pointer;
+}
+
+/* Right */
+.footer-right h4 {
+    margin-bottom: 15px;
+    color: green;
+}
+
+.store-buttons button {
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 8px 14px;
+    margin-right: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.enrolled {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #dcdcdc;
+}
+
+/* Bottom */
+.footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.2);
+    margin-top: 40px;
+    padding-top: 15px;
+    text-align: left;
+    font-size: 13px;
+    color: #cccccc;
+}
+.top{
+    font-size: 10px;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,31 @@
+body {
+				margin:0px;
+				padding:0px;
+				border:0px solid red;
+				font-family:arial;
+				background-color:rgb(236, 236, 236);
+			}
+            .highlight {
+                color: #007AFF;
+                font-weight: bold;
+            }
+            .homecontainer {
+                justify-content: center;
+                text-align: center;
+            }
+            .line {
+                font-size: 18px;
+                color: #333333;
+                margin-top: 10px;
+                line-height: 35px;
+                -ms-text-combine-horizontal: all;
+            }
+            .launch {
+                display: inline-block;
+               
+                padding: 10px 20px;
+                font-size: 16px;
+                color: #8391A1;
+                
+                border-radius: 5px;
+            }
