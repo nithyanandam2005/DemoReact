@@ -20,7 +20,7 @@ export default function Header() {
 		<nav>
 			
 			<ul>
-				<li><a href="#" alt="homepage">home</a></li>	
+				<li><a href="#" alt="homepage">Home</a></li>	
 				<li><a href="#" alt="homepage">About us</a></li>	
 				<li><a href="#" alt="homepage">Features</a></li>	
 				<li><a href="#" alt="homepage">How it works</a></li>	
